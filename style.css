@@ -1,0 +1,23 @@
+canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 7px 7px 15px #beff3d;
+}
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+}
+body{
+    background-size:cover;
+
+
+}
+.note{
+    font-size:15px;
+    color: black;
+}
+.play_button{
+    
+    font-size: 25px;
+}
